@@ -1,0 +1,68 @@
+# Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio files
+.vs/
+*.sln
+*.user
+*.suo
+*.cache
+*.dbmdl
+*.dbproj.schemaview
+*.jfm
+
+# Rider files
+.idea/
+
+# Visual Studio Code files
+.vscode/
+
+# NuGet packages
+*.nupkg
+**/packages/*
+!**/packages/build/**
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+
+# User-specific files
+*.userprefs
+*.user
+*.suo
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore files for coverage tools
+coverage/
+*.coverage
+*.coverlet
+*.coverage.xml
+
+# Ignore the generated TestResults folder
+TestResults/
+
+# Ignore local configuration files
+appsettings.Development.json
+appsettings.*.json
+
+# Ignore other settings files
+*.xproj
+*.yml
+*.yaml
+
+# Ignore Visual Studio Code settings
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json

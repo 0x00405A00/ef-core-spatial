@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ef core spatial")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a5aaf6b7174f26c94ef8fba573a0bc4996f6bf84")]
 [assembly: System.Reflection.AssemblyProductAttribute("ef core spatial")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ef core spatial")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
